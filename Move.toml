@@ -1,0 +1,12 @@
+[package]
+name = "move-blockchain"
+version = "0.1.0"
+authors = ["Your Name <you@example.com>"]
+
+
+[addresses]
+# Для локальних тестів використовуйте placeholder-адреси; move test підставляє їх автоматично.
+SimpleChain = "0x1"
+
+
+[dependencies]
